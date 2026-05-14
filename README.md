@@ -7,6 +7,8 @@
 [![Ecosistema](https://img.shields.io/badge/Protocolo-Fenix_Rise-red)](https://github.com/figueredo56/ZAARD-Proyecto-Seguro)
 [![Trading](https://img.shields.io/badge/Utility-High_Frequency_Trade-blue)](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x073c12c7072676c9a1afd83c07e470aa7d81aeb3&binanceChainId=56&chain=bsc)
 
+![imagen trilogia](https://raw.githubusercontent.com/figueredo56/ZARED/refs/heads/main/70%20sin%20t%C3%ADtulo_20260514112008.png)
+
 ### "Tres puntas, un solo poder inquebrantable."
 
 El ecosistema **ZAARD Innovation** alcanza su forma definitiva. Hemos construido una arquitectura donde la tecnología y la estrategia se fusionan en la **Triquetra de Poder**. **ZARED** no es solo el cierre de una trilogía; es el cerebro que conecta la fuerza y la evolución.
