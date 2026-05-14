@@ -19,8 +19,8 @@ El ecosistema **ZAARD Innovation** alcanza su forma definitiva. Hemos construido
 
 | Protocolo | Atributo Maestro | Función en el Ecosistema |
 | :--- | :--- | :--- |
-| **ZAARD** | **La Evolución & La Caja Fuerte** | El token especializado en **tradeo de alta precisión**. Es el refugio de valor y el motor económico que lo inició todo. |
-| **PANGA** | **La Fuerza Fénix** | El brazo ejecutor. Encargado de los **juegos Web3**, los **NFTs** y la expansión masiva. Es la energía que renace y domina el arcade. |
+| **PANGA** | **La Evolución, el poder ejecutable** | El token especializado en **tradeo de alta precisión**. Es el refugio de valor y el motor económico que lo inició todo. |
+| **ZAARD** | **La Fuerza Fénix** | El brazo ejecutor. Encargado de los **juegos Web3**, los **NFTs** y la expansión masiva. Es la energía que renace y domina el arcade. |
 | **ZARED** | **La Inteligencia Panga** | La tercera punta. El protocolo de **inteligencia y lógica avanzada** que coordina la sinergia de la red. |
 
 ---
