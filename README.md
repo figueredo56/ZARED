@@ -3,9 +3,9 @@
 # 🌌 ZAARD INNOVATION: El Despertar de la Triquetra
 ## 🔱 Fase III: ZARED Protocol – El Núcleo de Inteligencia
 
-![Fase](https://img.shields.io/badge/Fase-III_Triquetra-purple)
-![Ecosistema](https://img.shields.io/badge/Protocolo-Fenix_Rise-red)
-![Trading](https://img.shields.io/badge/Utility-High_Frequency_Trade-blue)
+[![Fase](https://img.shields.io/badge/Fase-III_Triquetra-purple)](https://github.com/figueredo56/ZAARD_ALX.md)
+[![Ecosistema](https://img.shields.io/badge/Protocolo-Fenix_Rise-red)](https://github.com/figueredo56/ZAARD-Proyecto-Seguro)
+[![Trading](https://img.shields.io/badge/Utility-High_Frequency_Trade-blue)](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x073c12c7072676c9a1afd83c07e470aa7d81aeb3&binanceChainId=56&chain=bsc)
 
 ### "Tres puntas, un solo poder inquebrantable."
 
