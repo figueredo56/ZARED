@@ -47,6 +47,11 @@ Buscamos el máximo impacto con una estructura optimizada, donde el 20% de nuest
 ---
 ---
 
+![pool zared](https://raw.githubusercontent.com/figueredo56/ZARED/17a05f4f67a60bf668abdaf371de91f6f08d4eb7/79%20sin%20t%C3%ADtulo_20260517161409_2.png)
+
+---
+---
+
 ## 🌐 Our Official Digital Presence
 
 Stay connected with the true source of ZAARD innovation.
