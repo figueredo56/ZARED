@@ -1,4 +1,4 @@
-![logo ZARED](https://raw.githubusercontent.com/figueredo56/ZARED/17ed3bd2bda650b3b0d72c46c2802f35a78c9305/CC_20260513_182949.svg)
+![logo ZARED](https://raw.githubusercontent.com/figueredo56/ZARED/8e26e7ab19aac6d4fab09627b821a31f88667ff5/CC_20260518_124248.svg)
 
 # 🌌 ZAARD INNOVATION: El Despertar de la Triquetra
 ## 🔱 Fase III: ZARED Protocol – El Núcleo de Inteligencia
